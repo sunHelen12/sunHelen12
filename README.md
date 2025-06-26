@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudande de Graduação do Curso de Sistemas de Informação;<br>☕ Tenho muito interesse em Banco de Dados, Java, JavaScript, Html e CSS;<br>🤝 Tenho muito interesse em trabalhar em Equipe;<br>🌱 Sou muito curiosa, por isso tenho muitos projetos  com linguagens diferentes;<br>🎁 Um fato divertido sobre mim, é que eu acho mágico a inserção de dados no Banco de Dados.
+🔭 Graduanda do Curso de Sistemas de Informação;<br>☕ Tenho muito interesse em Banco de Dados e APIs;<br>🤝 Tenho muito interesse em trabalhar em Equipe;<br>🌱 Sou muito curiosa, por isso tenho muitos projetos  com linguagens diferentes;<br>🎁 Um fato divertido sobre mim, é que eu acho mágico a inserção de dados no Banco de Dados.
 
 
 ## 🌐 Socials:
