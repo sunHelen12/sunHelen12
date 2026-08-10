@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="center">Olá! Sou baiana e estudante de Sistemas de Informação no IFBA — Instituto Federal de Educação, Ciência e Tecnologia da Bahia.</p>
+<p data-importer="text" align="center">Sou baiana e estudante de Sistemas de Informação no IFBA — Instituto Federal de Educação, Ciência e Tecnologia da Bahia.</p>
 
 ###
 
