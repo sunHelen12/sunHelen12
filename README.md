@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=97&section=header&reversal=true&text=Ol%C3%A1!%20Eu%20sou%20Helen%20Santos%20%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB&fontSize=25&fontColor=000000&fontAlign=50&fontAlignY=79&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=98&section=header&reversal=true&text=Ol%C3%A1!%20Eu%20sou%20Helen%20Santos%20%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB&fontSize=25&fontColor=000000&fontAlign=50&fontAlignY=79&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
 
 ###
