@@ -13,6 +13,14 @@
 ###
 
 <div data-importer="socials" align="center">
+  <a href="https://sunhelen12.github.io/portfolio-helen/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
+      height="25"
+      alt="portfolio"
+    />
+  </a>
+  
  <a href="https://www.linkedin.com/in/helen-santos-dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
